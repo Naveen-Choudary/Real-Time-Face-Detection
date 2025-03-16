@@ -12,7 +12,7 @@ This repository contains a deep learning-based face detection model. The dataset
 ## Folder Structure
 
 ```
-Face Detection/
+notebook/
 │── logs/                     # Training logs
 │── my_saved_model/           # Saved model directory
 │── class_indices.npy         # Mapping of class labels
