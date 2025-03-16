@@ -24,7 +24,7 @@ Face Detection/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/face-detection.git
+   git clone https://github.com/Naveen-Choudary/face-detection.git
    cd face-detection
    ```
 2. Install dependencies:
@@ -35,6 +35,10 @@ Face Detection/
    ```sh
    jupyter notebook facedetection.ipynb
    ```
+## Model Download
+
+The trained `my_model.keras` file can be downloaded from the following link:
+[Download my_model.keras](https://drive.google.com/file/d/1RDP0myummEsU2yuhoV59CmW5PgwKRx4F/view?usp=sharing)
 
 ## Model Training
 
